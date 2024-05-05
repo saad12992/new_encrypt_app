@@ -1,4 +1,5 @@
 **Comparative Analysis of Encryption Algorithms for Mobile Banking Security**
+
 Welcome to our Flutter app, where we harness the capabilities of the Pointy Castle library to provide a comprehensive Comparative Analysis of Encryption Algorithms.
 
 Powered by Pointy Castle, our app offers a seamless exploration of encryption algorithms such as AES, RSA, HMAC, and Digest Sha-256. Leveraging the robustness and flexibility of this library, we bring you a user-friendly interface coupled with powerful cryptographic functionalities.
